@@ -32,14 +32,10 @@ No real payment integration is included.
 
 ## GitHub Projects
 
-GitHub Projects Kanban board: To be added.
+[Cross-border Road Payments — Kanban Board](https://github.com/users/EgeMamus/projects/1/views/1)
 
-The board will track tasks using the following
-status categories:
-
-- To Do
-- In Progress
-- Done
+The board tracks project tasks using three status columns:
+To Do, In Progress and Done.
 
 ## Additional Documents
 
